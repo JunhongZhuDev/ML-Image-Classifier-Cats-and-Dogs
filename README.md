@@ -21,6 +21,10 @@ data/
 ```bash
 python main.py
 
+# Image Classification with TensorFlow
+
 ## 📊 Results
 
-![Training Result](Result.jpg)
+![Accuracy Plot](Result.jpg)
+
+The model achieved good accuracy on cats vs dogs dataset.
