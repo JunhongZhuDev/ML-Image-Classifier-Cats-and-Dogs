@@ -18,7 +18,9 @@ data/
     class2/
 
 ## 📊 Results
+
 ![Training Accuracy](Result.jpg)
+
 The model achieved good accuracy on the Cats vs Dogs dataset.
 
 ## ▶️ Run
