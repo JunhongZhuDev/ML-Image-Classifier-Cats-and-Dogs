@@ -20,3 +20,7 @@ data/
 ## ▶️ Run
 ```bash
 python main.py
+
+## 📊 Results
+
+![Training Result](result.jpg)
