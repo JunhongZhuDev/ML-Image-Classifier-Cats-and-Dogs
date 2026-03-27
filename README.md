@@ -17,14 +17,13 @@ data/
     class1/
     class2/
 
+## 📊 Results
+
+![Training Accuracy](Result.jpg)
+
+The model achieved good accuracy on the Cats vs Dogs dataset.
+
 ## ▶️ Run
 ```bash
 python main.py
 
-# Image Classification with TensorFlow
-
-## 📊 Results
-
-![Accuracy Plot](Result.jpg)
-
-The model achieved good accuracy on cats vs dogs dataset.
