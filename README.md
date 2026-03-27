@@ -23,4 +23,4 @@ python main.py
 
 ## 📊 Results
 
-![Training Result](result.jpg)
+![Training Result](Model/result.jpg)
